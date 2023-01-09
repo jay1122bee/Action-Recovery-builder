@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/jay1122bee/gta7lite-sm-tcom.git'
+        default: 'https://github.com/jay1122bee/gta7lite-sm-t225'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
